@@ -1,0 +1,70 @@
+# C++ build artifacts
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.dylib
+
+# Custom cache folders
+cache_*/
+*.cache
+
+# Build directories
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# CLion / CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+*.layout.save
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs (CLion, etc.)
+.idea/
+*.iml
+
+# Qt Creator
+*.pro.user
+*.qbs.user
+*.creator.*
+*.autosave
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Test or generated data
+*.csv
+*.tsv
+*.json
+*.xml
+*.h5
