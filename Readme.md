@@ -1,6 +1,6 @@
 # Algorithm Practice
 
-This repository is dedicated to practicing algorithms and data structures by solving problems from CSES problem set.
+This repository is dedicated to practicing algorithms and data structures by solving problems from CSES problem set and Leetcode problem list.
 
 ## Repository Structure
 
